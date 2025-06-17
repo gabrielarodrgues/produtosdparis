@@ -4,7 +4,8 @@ export default async function ProdutosdParis() {
   const usuario = await db.query("select * from usuario");
 
   return (
-  <>
+  <>oi som 
+  <div>Oi </div>
     
   </>
   );
